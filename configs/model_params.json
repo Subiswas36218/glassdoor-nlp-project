@@ -1,0 +1,7 @@
+{
+  "tfidf_max_features": 5000,
+  "tfidf_min_df": 5,
+  "tfidf_max_df": 0.8,
+  "kmeans_clusters": 4,
+  "lda_topics": 5
+}

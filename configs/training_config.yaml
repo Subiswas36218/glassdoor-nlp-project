@@ -1,0 +1,5 @@
+train_test_split: 0.2
+random_state: 42
+stratify: true
+class_balancing: true
+smote: true

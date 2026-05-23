@@ -1,0 +1,7 @@
+lowercase: true
+remove_special_characters: true
+remove_numbers: true
+remove_extra_whitespace: true
+tokenization: true
+lemmatization: true
+minimum_word_length: 3
